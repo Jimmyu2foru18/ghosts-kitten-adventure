@@ -45,11 +45,5 @@ Project Scripts
 - `npm run build` – Build the production bundle into the `dist` folder.
 - `npm run preview` – Preview the built bundle locally.
 
-Deploying to GitHub Pages
--------------------------
-
-This project is already configured to work from the GitHub Pages URL:
-
-https://jimmyu2foru18.github.io/ghosts-kitten-adventure/
-
-The Vite configuration sets the correct base path for production builds so that assets load properly from that URL.
+@Th3viousGameus
+@Its_GhostGirl
