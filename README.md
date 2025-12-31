@@ -1,5 +1,7 @@
 Ghosts Kitten Adventure
 ========================
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Available_-brightgreen)](https://jimmyu2foru18.github.io/ghosts-kitten-adventure/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployed-blue)](https://github.com/Jimmyu2foru18/ghosts-kitten-adventure/deployments)
 
 A spooky-but-cute puzzle adventure where two kittens, Frosty and Flurry, try to escape a haunted mansion with the guidance of a mysterious ghost girl.
 
